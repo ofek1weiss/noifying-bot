@@ -1,1 +1,1 @@
-# noifying-bot
+# notifying-bot
